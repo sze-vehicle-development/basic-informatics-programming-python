@@ -12,6 +12,7 @@ print(d)
 del d["a"]
 print(d)
 # Dictionary operations
+d = {"a": 1, "b": 2, "c": 3}
 # Dictionary length
 print(len(d))
 # Dictionary keys
